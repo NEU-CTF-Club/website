@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "NEU CTF Club"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/flag.png"
+  # secondaryLogo = "PATH"
+  # description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "CTF Club"
+  image = "img/logo.png"
+  headline = "Northeastern University's Capture the Flag Club"
+  # bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  links = [
+    { instagram = "https://www.instagram.com/neuctfclub/" },
+    { discord = "https://discord.gg/yUf6YAEBTw" },
+    { linkedin = "https://www.linkedin.com/company/neu-ctf-club" },
+  ]
