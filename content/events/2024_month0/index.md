@@ -3,7 +3,7 @@ title: "Month[0] CTF"
 date: 2024-01-02
 draft: false
 description: "Month[0] CTF"
-tags: ["CTF", "2023"]
+tags: ["CTF", "2024"]
 ---
 
 ![featured](featured.png)
