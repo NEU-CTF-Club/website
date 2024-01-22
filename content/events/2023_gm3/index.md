@@ -15,4 +15,4 @@ This means more challenges to conquer! Buckle up for this upcoming GM, whether y
 ---
 
 ![gm3](gm3.png)
-(CRYPTO TRAIL #2 CHALLENGE) (https://twitter.com/BHBuccaneer)
+<!-- (CRYPTO TRAIL #2 CHALLENGE) (https://twitter.com/BHBuccaneer) -->
