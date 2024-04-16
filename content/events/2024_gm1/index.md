@@ -9,3 +9,8 @@ tags: ["GM", "2024"]
 ![featured](featured.png)
 
 Hi hackers! We’re back and better than ever! Join us this Wednesday 1/10 for a Clue inspired murder mystery challenge. We need your help in catching the killer here on NEU's campus. Make friends, solve some puzzling CTF challenges, and find who the killer is— who knows, they might be closer than you think.
+
+---
+
+![2024_gm1](gm11.png)
+![2024_gm1](gm12.png)
