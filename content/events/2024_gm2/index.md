@@ -13,3 +13,9 @@ Hey hackers! Get ready for an EXCITING ADVENTURE this upcoming Monday! Join us f
 It’s a head-to-head competition against other teams, so bring yourself, your friends, and your laptops for an exhilarating experience. We’ll take care of the rest, so gear up to race to the finish line.
 
 See you at the winner’s circle!
+
+---
+
+![2024_gm2](gm21.png)
+![2024_gm2](gm22.png)
+![2024_gm2](gm23.png)
