@@ -16,6 +16,6 @@ See you at the winner’s circle!
 
 ---
 
-![2024_gm2](gm21.png)
-![2024_gm2](gm22.png)
-![2024_gm2](gm23.png)
+![sp24_gm2](gm21.png)
+![sp24_gm2](gm22.png)
+![sp24_gm2](gm23.png)

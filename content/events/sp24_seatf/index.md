@@ -12,5 +12,5 @@ Hi hackers! Join CTF Club, NU WiCyS, and NU Security for the sequel to the fallâ
 
 ---
 
-![seatf](seatf1.png)
-![seatf](seatf2.png)
+![sp24_seatf](seatf1.png)
+![sp24_seatf](seatf2.png)

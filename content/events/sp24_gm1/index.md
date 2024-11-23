@@ -12,5 +12,5 @@ Hi hackers! We’re back and better than ever! Join us this Wednesday 1/10 for a
 
 ---
 
-![2024_gm1](gm11.png)
-![2024_gm1](gm12.png)
+![sp24_gm1](gm11.png)
+![sp24_gm1](gm12.png)

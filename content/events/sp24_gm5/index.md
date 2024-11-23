@@ -16,5 +16,5 @@ PLEASE INSTALL GHIDRA BEFORE PULLING UP TO THE EVENT—- thanks!
 
 ---
 
-![2024_gm5](gm51.png)
-![2024_gm5](gm52.png)
+![sp24_gm5](gm51.png)
+![sp24_gm5](gm52.png)

@@ -12,5 +12,5 @@ hi hackers! Join us as we use our ultimate stalking… I mean investigation skil
 
 ---
 
-![2024_gm4](gm41.png)
-![2024_gm4](gm42.png)
+![sp24_gm4](gm41.png)
+![sp24_gm4](gm42.png)

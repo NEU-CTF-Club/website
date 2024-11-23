@@ -12,5 +12,5 @@ Hi hackers! with Valentine’s Day around the corner, the CTF Club would like to
 
 ---
 
-![2024_gm3](gm31.png)
-![2024_gm3](gm32.png)
+![sp24_gm3](gm31.png)
+![sp24_gm3](gm32.png)

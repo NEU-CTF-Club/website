@@ -14,5 +14,5 @@ Elections will be taking place then too— prepare to vote!
 
 ---
 
-![2024_gm6](gm61.png)
-![2024_gm6](gm62.png)
+![sp24_gm6](gm61.png)
+![sp24_gm6](gm62.png)

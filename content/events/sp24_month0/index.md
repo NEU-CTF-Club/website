@@ -13,5 +13,5 @@ Our first CTF Competition of the semester will be January 31st! Come celebrate c
 
 ---
 
-![month0](month01.png)
-![month0](month02.png)
+![sp24_month0](month01.png)
+![sp24_month0](month02.png)
