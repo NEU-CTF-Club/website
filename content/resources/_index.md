@@ -8,9 +8,7 @@ cascade:
   invertPagination: true
 ---
 
-{{< lead >}}
 Cybersecurity resources and platforms to further practice your skills! 
-{{< /lead >}}
 
 
 ---
