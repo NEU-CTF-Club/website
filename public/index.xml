@@ -12,8 +12,15 @@
     <description>Recent content in Welcome to CTFC!  on NEU CTF Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://neu-ctf.club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTF Thyme</title>
+      <link>https://neu-ctf.club/events/fa24_thyme/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/events/fa24_thyme/</guid>
+      <description>Hi Hackers!! Hungry for more CTFs? Want some real competition experience to put on your resume that employers will eat up? Come join CTF club and NU WiCyS for a friendsgiving feast at CTF Thyme!</description>
+    </item>
     <item>
       <title>GM#5:  Operation Offline</title>
       <link>https://neu-ctf.club/events/fa24_gm5/</link>
@@ -104,13 +111,6 @@
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://neu-ctf.club/events/sp24_month0/</guid>
       <description>Our first CTF Competition of the semester will be January 31st! Come celebrate completing the first month of 2024 with us by solving challenges and possibly winning Amazon gift cards!</description>
-    </item>
-    <item>
-      <title>CTF Thyme</title>
-      <link>https://neu-ctf.club/events/fa24_thyme/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://neu-ctf.club/events/fa24_thyme/</guid>
-      <description>Hi Hackers!! Hungry for more CTFs? Want some real competition experience to put on your resume that employers will eat up? Come join CTF club and NU WiCyS for a friendsgiving feast at CTF Thyme!</description>
     </item>
     <item>
       <title>GM#1: Murder, Mystery, &amp; CTFs</title>

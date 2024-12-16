@@ -6,14 +6,25 @@
     <description>Recent content in Tags on NEU CTF Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+<<<<<<< HEAD
     <atom:link href="https://neu-ctf.club/tags/index.xml" rel="self" type="application/rss+xml" />
     <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
+>>>>>>> main
     <atom:link href="https://neu-ctf.club/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024</title>
       <link>https://neu-ctf.club/tags/2024/</link>
-      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://neu-ctf.club/tags/2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CTF</title>
+      <link>https://neu-ctf.club/tags/ctf/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/tags/ctf/</guid>
       <description></description>
     </item>
     <item>
@@ -21,13 +32,6 @@
       <link>https://neu-ctf.club/tags/gm/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://neu-ctf.club/tags/gm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CTF</title>
-      <link>https://neu-ctf.club/tags/ctf/</link>
-      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://neu-ctf.club/tags/ctf/</guid>
       <description></description>
     </item>
     <item>

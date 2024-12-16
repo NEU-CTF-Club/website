@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="https://neu-ctf.club/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CTF Thyme</title>
@@ -17,7 +18,16 @@
     </item>
     <item>
     <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
+=======
+>>>>>>> main
     <atom:link href="https://neu-ctf.club/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTF Thyme</title>
+      <link>https://neu-ctf.club/events/fa24_thyme/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/events/fa24_thyme/</guid>
+      <description>Hi Hackers!! Hungry for more CTFs? Want some real competition experience to put on your resume that employers will eat up? Come join CTF club and NU WiCyS for a friendsgiving feast at CTF Thyme!</description>
+    </item>
     <item>
       <title>GM#5:  Operation Offline</title>
       <link>https://neu-ctf.club/events/fa24_gm5/</link>
@@ -111,6 +121,7 @@
     </item>
     <item>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       <title>CTF Thyme</title>
       <link>https://neu-ctf.club/events/fa24_thyme/</link>
@@ -119,6 +130,8 @@
       <description>Hi Hackers!! Hungry for more CTFs? Want some real competition experience to put on your resume that employers will eat up? Come join CTF club and NU WiCyS for a friendsgiving feast at CTF Thyme!</description>
     </item>
     <item>
+>>>>>>> main
+=======
 >>>>>>> main
       <title>GM#1: Murder, Mystery, &amp; CTFs</title>
       <link>https://neu-ctf.club/events/sp24_gm1/</link>
