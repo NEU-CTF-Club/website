@@ -7,19 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
-<<<<<<< HEAD
-    <atom:link href="https://neu-ctf.club/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CTF Thyme</title>
-      <link>https://neu-ctf.club/events/fa24_thyme/</link>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://neu-ctf.club/events/fa24_thyme/</guid>
-      <description>Hi Hackers!! Hungry for more CTFs? Want some real competition experience to put on your resume that employers will eat up? Come join CTF club and NU WiCyS for a friendsgiving feast at CTF Thyme!</description>
-    </item>
-    <item>
-    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate>
-=======
->>>>>>> main
     <atom:link href="https://neu-ctf.club/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CTF Thyme</title>

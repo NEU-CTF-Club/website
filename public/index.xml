@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NEU CTF Club</title>
-    <link>https://neu-ctf.club/</link>
-    <description>Recent content on NEU CTF Club</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://neu-ctf.club/index.xml" rel="self" type="application/rss+xml" />
     <title>Welcome to CTFC!  on NEU CTF Club</title>
     <link>https://neu-ctf.club/</link>
     <description>Recent content in Welcome to CTFC!  on NEU CTF Club</description>
@@ -270,6 +264,5 @@ This means more challenges to conquer! Buckle up for this upcoming GM, whether y
       <guid>https://neu-ctf.club/resources/thm/</guid>
       <description></description>
     </item>
->>>>>>> main
   </channel>
 </rss>
