@@ -1,6 +1,6 @@
 ---
 title: "CTF Thyme"
-date: 2024-01-01
+date: 2024-11-17
 draft: false
 description:  "CTF Thyme"
 tags: ["CTF", "2024"]
