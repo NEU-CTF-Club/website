@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTF on NEU CTF Club</title>
+    <link>https://neu-ctf.club/tags/ctf/</link>
+    <description>Recent content in CTF on NEU CTF Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://neu-ctf.club/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Versus CTF</title>
+      <link>https://neu-ctf.club/events/fa24_versus/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/events/fa24_versus/</guid>
+      <description>GET READY FOR VERSUS CTF with Rensselaer Polytechnic Institute’s Security Club!! Join us SATURDAY, SEPT 21, 12PM in Shillman 220 for free catered food, prizes and surprises, plenty of challenges, and fun teamwork.</description>
+    </item>
+    <item>
+      <title>SEATF</title>
+      <link>https://neu-ctf.club/events/sp24_seatf/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/events/sp24_seatf/</guid>
+      <description>Hi hackers! Join CTF Club, NU WiCyS, and NU Security for the sequel to the fall’s SUB-Z3R0: SeaTF! This CTF is open to any and all interested undergraduate students, regardless of experience!</description>
+    </item>
+    <item>
+      <title>Month[0] CTF</title>
+      <link>https://neu-ctf.club/events/sp24_month0/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/events/sp24_month0/</guid>
+      <description>Our first CTF Competition of the semester will be January 31st! Come celebrate completing the first month of 2024 with us by solving challenges and possibly winning Amazon gift cards!</description>
+    </item>
+    <item>
+      <title>CTF Thyme</title>
+      <link>https://neu-ctf.club/events/fa24_thyme/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/events/fa24_thyme/</guid>
+      <description>Hi Hackers!! Hungry for more CTFs? Want some real competition experience to put on your resume that employers will eat up? Come join CTF club and NU WiCyS for a friendsgiving feast at CTF Thyme!</description>
+    </item>
+    <item>
+      <title>Sub-Z3r0 CTF</title>
+      <link>https://neu-ctf.club/events/2023_subzero/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/events/2023_subzero/</guid>
+      <description>NU Security, NU WiCYS and NU CTF are so excited to announce the biggest student-led security event at Northeastern! We present to you: The SUB-Z3R0 CTF! This CTF is open to all undergraduate students who are interested, regardless of their experience level.</description>
+    </item>
+    <item>
+      <title>Sp00ky Scary CTF</title>
+      <link>https://neu-ctf.club/events/2023_spooky/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/events/2023_spooky/</guid>
+      <description>Get ready for a spooktacular challenge!
+It is Cybersecurity Awareness Month, this means more challenges to break into!
+What&amp;rsquo;s in store for you:
+Creepy cryptographic puzzles Haunted digital mazes Witchy riddles to solve Frighteningly fun challenges Prizes await the top 3 rankers, so assemble your team (max of 3) or go solo, and let the cryptic adventure begin!</description>
+    </item>
+    <item>
+      <title>Kickoff CTF Competition</title>
+      <link>https://neu-ctf.club/events/2023_kickoff/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/events/2023_kickoff/</guid>
+      <description>Thank you all for participating in our first ever CTF competition— it was special for us to see you all wracking your brain and enjoying the challenges we made.</description>
+    </item>
+  </channel>
+</rss>

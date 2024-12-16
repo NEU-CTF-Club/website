@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on NEU CTF Club</title>
+    <link>https://neu-ctf.club/resources/</link>
+    <description>Recent content in Resources on NEU CTF Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://neu-ctf.club/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome CTF</title>
+      <link>https://neu-ctf.club/resources/awesome_ctf/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/resources/awesome_ctf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Awesome Forensics</title>
+      <link>https://neu-ctf.club/resources/awesome_forensics/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/resources/awesome_forensics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CTF Learn</title>
+      <link>https://neu-ctf.club/resources/ctf_learn/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/resources/ctf_learn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CTF Walkthroughs</title>
+      <link>https://neu-ctf.club/resources/ctf_walkthroughs/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/resources/ctf_walkthroughs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CTF101</title>
+      <link>https://neu-ctf.club/resources/ctf101/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/resources/ctf101/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CTFtime</title>
+      <link>https://neu-ctf.club/resources/ctftime/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/resources/ctftime/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hack the Box</title>
+      <link>https://neu-ctf.club/resources/htb/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/resources/htb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hacksplaining</title>
+      <link>https://neu-ctf.club/resources/hacksplaining/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/resources/hacksplaining/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux Journey</title>
+      <link>https://neu-ctf.club/resources/linux_journey/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/resources/linux_journey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sad Servers</title>
+      <link>https://neu-ctf.club/resources/sad_servers/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/resources/sad_servers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Try Hack Me</title>
+      <link>https://neu-ctf.club/resources/thm/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://neu-ctf.club/resources/thm/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
