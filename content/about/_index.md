@@ -9,6 +9,9 @@ CTF (Capture-the-Flag) Club is an undergraduate student organization with a miss
 
 Whether you're a complete beginner or a seasoned expert, come hack with us! You'll learn how to compete in CTF competitions from the ground-up, and meet some awesome people along the way!
 
+## Fall 2025 - Spring 2026 Eboard
+![fall-2024-to-spring-2025](img/eboard-f25-s26.png)
+
 ## Fall 2024 - Spring 2025 Eboard
 ![fall-2024-to-spring-2025](img/eboard-f24-s25.png)
 
