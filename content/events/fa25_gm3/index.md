@@ -24,5 +24,5 @@ This CTF has a different format than our normal CTF’s which makes it fun and e
 
 ---
 
-![recap1](recap1.jpg)
-![recap2](recap2.jpg)
+![recap1](recap1.png)
+![recap2](recap2.png)
