@@ -21,5 +21,5 @@ Join the mission.
 
 ---
 
-![recap1](recap1.jpg)
-![recap2](recap2.jpg)
+![recap1](recap1.png)
+![recap2](recap2.png)
