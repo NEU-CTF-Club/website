@@ -13,7 +13,7 @@ title = "NEU CTF Club"
   # description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
   name = "CTF Club"
   image = "img/logo.png"
   headline = "Northeastern University's Capture the Flag Club"
